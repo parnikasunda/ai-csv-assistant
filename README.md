@@ -53,6 +53,12 @@ The application follows a Retrieval-Augmented Generation (RAG)-inspired workflow
 
 ---
 
+# Live Demo
+
+Link: https://ai-csv-assistant-7epuc6wpxsufxcbtwywbbx.streamlit.app/
+
+--- 
+
 #  Project Structure
 
 ```bash
