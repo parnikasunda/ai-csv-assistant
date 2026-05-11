@@ -15,20 +15,20 @@ The assistant allows users to upload the dataset, ask natural language questions
 
 ---
 
-# 🚀 Features
+#  Features
 
-✅ Upload and analyze employee CSV datasets  
-✅ Ask natural language questions about employee data  
-✅ Interactive AI-style chat interface  
-✅ Dataset summary generation  
-✅ Salary analytics and employee insights  
-✅ Automatic salary chart generation  
-✅ Chat history support  
-✅ Modern Streamlit UI  
+- Upload and analyze employee CSV datasets  
+- Ask natural language questions about employee data  
+- Interactive AI-style chat interface  
+- Dataset summary generation  
+- Salary analytics and employee insights  
+- Automatic salary chart generation  
+- Chat history support  
+- Modern Streamlit UI  
 
 ---
 
-# 🧠 How It Works
+# How It Works
 
 The application follows a Retrieval-Augmented Generation (RAG)-inspired workflow:
 
@@ -41,7 +41,7 @@ The application follows a Retrieval-Augmented Generation (RAG)-inspired workflow
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 - Python
 - Streamlit
@@ -53,7 +53,7 @@ The application follows a Retrieval-Augmented Generation (RAG)-inspired workflow
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```bash
 ai-csv-assistant/
