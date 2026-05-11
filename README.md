@@ -1,3 +1,4 @@
+<img width="1162" height="803" alt="image" src="https://github.com/user-attachments/assets/bf3c8673-f029-4105-a4d7-2f51be197835" />
 # 📊 AI-Powered CSV Assistant
 
 An interactive AI-powered CSV analytics assistant built using Python, Streamlit, FAISS, and SentenceTransformers.
@@ -61,4 +62,4 @@ ai-csv-assistant/
 └── README.md
 
 
-<img width="1162" height="803" alt="image" src="https://github.com/user-attachments/assets/bf3c8673-f029-4105-a4d7-2f51be197835" />
+
